@@ -1,0 +1,3 @@
+rootProject.name='Jmz Places Sample'
+include ':app'
+include ':jmzplaces'
